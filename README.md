@@ -19,5 +19,4 @@
 * [Install](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) - How to start
 * [Update](https://msdn.microsoft.com/en-us/commandline/wsl/faq#how-do-i-update-bash-on-ubuntu-on-windows) - How to update bash
 * [/mnt/c](https://msdn.microsoft.com/en-us/commandline/wsl/faq#how-do-i-access-my-c-drive) - How do I access my C: drive
-* [Git Install](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
-* [aaaaaa](bbbbbbb) - ccccc.
+* [Git Install](https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/) - Install GIT
