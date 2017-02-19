@@ -21,3 +21,10 @@
 * [/mnt/c](https://msdn.microsoft.com/en-us/commandline/wsl/faq#how-do-i-access-my-c-drive) - How do I access my C: drive
 * [Nodejs bash Install](https://aigeec.com/installing-node-js-on-windows-10-bash/) - nodeJS
 * [Git bash Install](https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/) - Install GIT
+
+
+##
+- install & updating & clear
+```` 
+sudo apt-get update && sudo apt-get dist-upgrade && sudo apt-get autoremove
+````
