@@ -21,8 +21,7 @@
 * [/mnt/c](https://msdn.microsoft.com/en-us/commandline/wsl/faq#how-do-i-access-my-c-drive) - How do I access my C: drive
 * [Nodejs bash Install](https://aigeec.com/installing-node-js-on-windows-10-bash/) - nodeJS
 * [Git bash Install](https://scottiestech.info/2016/08/14/how-to-install-git-and-gitk-on-bash-on-ubuntu-on-windows-10/) - Install GIT
-
-
+* [Ubuntu in Cmder](https://gingter.org/2016/11/16/running-windows-10-ubuntu-bash-in-cmder/) - add Bash::Ubuntu to Cmder
 ##
 - install & updating & clear
 ```` 
