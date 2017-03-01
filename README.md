@@ -28,3 +28,4 @@
 ```` 
 sudo apt-get update && sudo apt-get dist-upgrade && sudo apt-get autoremove
 ````
+ **Malwarebytes is lucid right now - so try to disable it when you update or use apt-get
